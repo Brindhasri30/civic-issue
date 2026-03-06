@@ -15,11 +15,11 @@ A **Java Full Stack** application built with **Spring Boot**, **React.js**, and 
 - **Database:** PostgreSQL
 - **Authentication:** Spring Security-JWT 
 ## 📸 Screenshots
-### Admin
+### ADMIN
 <img width="1906" height="920" alt="image" src="https://github.com/user-attachments/assets/f50af2ac-6f4e-4012-8745-696a14757a2a" />
 
 
-
+### USER
 ### Report Issue
 <img width="1880" height="891" alt="image" src="https://github.com/user-attachments/assets/c50ea2c4-401f-4df4-892e-149db74455fe" />
 
