@@ -14,4 +14,16 @@ A **Java Full Stack** application built with **Spring Boot**, **React.js**, and 
 - **Frontend:** React.js
 - **Database:** PostgreSQL
 - **Authentication:** Spring Security-JWT 
-- **Tools:** Postman, Git
+## 📸 Screenshots
+### Admin
+<img width="1906" height="920" alt="image" src="https://github.com/user-attachments/assets/f50af2ac-6f4e-4012-8745-696a14757a2a" />
+
+
+
+### Report Issue
+<img width="1880" height="891" alt="image" src="https://github.com/user-attachments/assets/c50ea2c4-401f-4df4-892e-149db74455fe" />
+
+
+### Resolved Status
+<img width="1919" height="696" alt="image" src="https://github.com/user-attachments/assets/1b0e650b-6488-460b-b00b-a2c92f4f250f" />
+
